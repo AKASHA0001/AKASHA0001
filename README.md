@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**AKASHA0001/AKASHA0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Beépített alkalmazásfájlok
 * .apk
 * .aar
@@ -30,7 +15,7 @@ Here are some ideas to get you started:
 bin /
 gen /
 ki /
-#    Törölje a következő sor megjegyzést arra az esetre, ha szüksége van, és nincs a kiadás build típusú fájljai az alkalmazásban
+
 # kiadás/
 
 # Gradle fájlok
@@ -65,9 +50,6 @@ elfog /
 .idea / modules.xml
 # Írjon megjegyzést a következő sorba, ha az elemek pozíciójának megtartása a Navigációs szerkesztőben fontos az Ön számára
 .idea / navEditor.xml
-
-# Kulcstár fájlok
-# Törölje a következő sorok megjegyzését, ha nem akarja ellenőrizni a kulcstároló fájljait.
 # *.jks
 # *.kulcstár
 
