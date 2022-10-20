@@ -48,7 +48,6 @@ elfog /
 # Android Studio 3 .gitignore fájlban.
 .idea / gyorsítótárak
 .idea / modules.xml
-# Írjon megjegyzést a következő sorba, ha az elemek pozíciójának megtartása a Navigációs szerkesztőben fontos az Ön számára
 .idea / navEditor.xml
 # *.jks
 # *.kulcstár
